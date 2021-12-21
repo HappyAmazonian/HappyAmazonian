@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HappyAmazonian
 - 👀 I’m interested in 15 Leadership Principles
-- 🌱 I’m currently learning how to be always @day 1
+- 🌱 I’m currently learning how to be always **@day 1**
 - 💞️ I’m looking to collaborate on AWS Sagemaker Neo
 - 📫 How to reach me ... Shen Teng
 
